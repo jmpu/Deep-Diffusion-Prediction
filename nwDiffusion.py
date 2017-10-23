@@ -1,7 +1,7 @@
 
 import random
 import networkx as nx
-from Autoencoder_st import *
+from diffusionAE import *
 
 
 # read graph.txt
